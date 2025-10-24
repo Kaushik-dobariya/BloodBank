@@ -1,1 +1,5 @@
-# BloodBankManagementSystem
+# Blood Bank Management System
+
+Used Stack initially just C# and SQL Server, step by step will update new features and deploy.
+
+Thanks
